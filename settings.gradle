@@ -1,0 +1,2 @@
+rootProject.name = "kt_test_firebase_cloud_messages"
+include ':app'
